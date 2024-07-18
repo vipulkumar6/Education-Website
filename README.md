@@ -1,2 +1,2 @@
 # Education-Website
-In this I create a website using  HTML ,CSS , JS, React And some part may be contain Bootstrap. this is completely responsive website
+I have developed a static, fully responsive educational website using a blend of HTML, CSS, JavaScript, React, and strategically integrated Bootstrap components.
